@@ -1,0 +1,21 @@
+____First task____
+[Liepa, Klevas, Obelis, Egle, Pusis, Berzas, Azuolas, Vysnia, Tuja, Slyva]
+
+____Second task____
+Slyva
+Tuja
+Vysnia
+Azuolas
+Berzas
+Pusis
+Egle
+Obelis
+Klevas
+Liepa
+
+____Third task____
+There are 2 words, shorter than 5 characters.
+There are 0 words, longer than 7 characters.
+
+____Fourth task____
+There are 5 words, longer than 5 characters, but shorter than 10 characters
